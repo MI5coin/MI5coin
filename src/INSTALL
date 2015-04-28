@@ -1,0 +1,9 @@
+Building MI5Coin
+
+See doc/readme-qt.rst for instructions on building MI5Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MI5Coin.
+
+See doc/build-*.txt for instructions on building MI5Coind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MI5Coin.
