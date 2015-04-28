@@ -19,8 +19,8 @@ Short: MI5
 Algorithm SHA256
 
 
-RPC Port: 21451
-P2P Port: 21454
+RPC Port: 55555
+P2P Port: 55554
 
 
 
